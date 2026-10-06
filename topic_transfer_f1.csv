@@ -2210,6 +2210,39 @@ ragtime-na,0,llm,autoargue-Llama-3.3-70B-Instruct,1081,396,234,0.739454094292804
 ragtime-na,0,llm,autoargue-Llama-3.3-70B-Instruct,1083,398,261,0.8469184890656064,1,False
 ragtime-na,0,llm,autoargue-Llama-3.3-70B-Instruct,1085,149,43,0.8148148148148148,1,False
 ragtime-na,0,llm,autoargue-Llama-3.3-70B-Instruct,1087,322,183,0.8717948717948718,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1001,395,179,0.6282973621103117,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1003,236,75,0.694300518134715,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1005,189,51,0.5238095238095238,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1007,493,246,0.7149460708782742,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1009,455,258,0.7741935483870968,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1011,272,116,0.6149584487534626,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1013,487,266,0.6925675675675675,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1015,100,25,0.5679012345679012,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1017,182,45,0.5648854961832062,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1019,418,265,0.7536231884057971,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1021,257,119,0.61198738170347,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1023,85,19,0.4175824175824176,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1025,327,183,0.6805194805194805,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1027,207,115,0.7094339622641509,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1029,203,59,0.5369127516778524,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1031,138,26,0.5714285714285714,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1033,143,45,0.5161290322580645,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1035,53,10,0.4,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1037,115,35,0.5132743362831859,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1039,202,81,0.6428571428571429,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1041,134,41,0.5,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1047,295,148,0.6808510638297872,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1053,280,148,0.6273062730627307,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1055,193,116,0.4378698224852071,0,False
+ragtime-na,0,rouge,rouge1 ref=answers,1065,160,44,0.6451612903225806,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1067,180,64,0.6347305389221557,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1075,220,87,0.5957446808510638,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1077,220,88,0.7129629629629629,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1079,153,37,0.53125,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1081,471,272,0.7911714770797963,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1083,432,284,0.7862595419847328,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1085,159,47,0.6890756302521008,1,False
+ragtime-na,0,rouge,rouge1 ref=answers,1087,393,224,0.7593360995850622,0,False
 ragtime-na,0,warmup,warmup,1001,395,179,0.8515406162464986,0,False
 ragtime-na,0,warmup,warmup,1003,236,75,0.7910447761194029,1,False
 ragtime-na,0,warmup,warmup,1005,189,51,0.8990825688073395,0,False
